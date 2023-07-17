@@ -1,0 +1,20 @@
+Butterfly valve- correct
+Butterfly valve- incorrect
+Check valve- incorrect
+Check valve- attention required
+Control Valve- correct
+Control Valve- incorrect
+Pump By-Pass- Correct
+Pump By-Pass- Incorrect
+PSV- Incorrect
+PSV- Correct
+Y-type globe valve- highlight
+Y-type globe valve- incorrect
+Y-type globe valve- correct
+Orbit valve- highlight
+Cavity relief valve- highlight
+Cavity relief valve- incorrect
+Cavity relief valve- correct
+Diaphragm seal- correct
+Diaphragm seal- incorrect
+Vortex breaker- highlight
